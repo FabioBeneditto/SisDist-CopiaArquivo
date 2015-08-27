@@ -120,7 +120,7 @@ public class CopiaArquivoGUI extends javax.swing.JFrame {
         JOptionPane.showMessageDialog(this, "Implemente sua Copia!");
         try{
             FileInputStream fin = new FileInputStream(origem);
-            
+
         } catch (Exception e){
             e.printStackTrace();
         }
